@@ -1,5 +1,4 @@
-ez vocab
-===
+# ez vocab
 
 Singular input for searching Korean vocab on Google Images, Naver Dictionary, and Forvo.
 
